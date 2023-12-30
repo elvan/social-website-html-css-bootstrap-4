@@ -1,0 +1,9 @@
+body {
+  color: #fff;
+  background: #333;
+}
+
+.navbar {
+  opacity: 0.8;
+  border-bottom: #008ed6 3px solid;
+}
