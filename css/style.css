@@ -40,3 +40,11 @@ body {
   color: #008ed6;
   background: #fff;
 }
+
+#explore-section .fas,
+#share-section .fas {
+  padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+  background: #333;
+}
